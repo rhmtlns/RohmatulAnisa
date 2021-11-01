@@ -1,0 +1,22 @@
+body{
+    background-color: lightslategrey;
+    margin: 5px;
+    padding: 10px;
+}
+
+body img{
+    float: right;
+    width: 400px;
+    height: 400px;
+    padding-right: 300px;
+}
+
+.main{
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 70px;
+}
+
+span{
+    color:brown;
+}
